@@ -1,0 +1,1 @@
+# -Criando-um-Trojan-de-Acesso-Remoto-com-o-Social-Engineer-Toolkit-do-Kali-Linux
